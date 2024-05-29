@@ -94,7 +94,9 @@ Here are some ideas to get you started:
 
 ## Imagens
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Estatísticas 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echilley-git&show_icons=true&theme=dark&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echilley-git&show_icons=true&theme=dark&locale=pt-br)
 
